@@ -1,12 +1,12 @@
 {
   "instant" : {
-    "epochSecond" : 1733977109,
-    "nanoOfSecond" : 258211000
+    "epochSecond" : 1704358143,
+    "nanoOfSecond" : 420580000
   },
   "thread" : "main",
   "level" : "INFO",
   "loggerName" : "com.log4j2.Log4j2",
-  "message" : "Starting Log4j2 using Java 18.0.1.1 on gimbyeong-ung-ui-MacBookAir.local with PID 97991 (/Users/ung/Downloads/Log4j2/build/classes/java/main started by ung in /Users/ung/Downloads/Log4j2)",
+  "message" : "Starting Log4j2 using Java 18.0.1.1 on gimbyeong-ung-ui-MacBookAir.local with PID 33605 (/Users/ung/Documents/Spring/Log4j2/build/classes/java/main started by ung in /Users/ung/Documents/Spring/Log4j2)",
   "endOfBatch" : false,
   "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
   "threadId" : 1,
@@ -15,8 +15,8 @@
 }
 {
   "instant" : {
-    "epochSecond" : 1733977109,
-    "nanoOfSecond" : 287031000
+    "epochSecond" : 1704358143,
+    "nanoOfSecond" : 452933000
   },
   "thread" : "main",
   "level" : "INFO",
@@ -30,8 +30,8 @@
 }
 {
   "instant" : {
-    "epochSecond" : 1733977109,
-    "nanoOfSecond" : 633325000
+    "epochSecond" : 1704358143,
+    "nanoOfSecond" : 789425000
   },
   "thread" : "main",
   "level" : "INFO",
@@ -45,8 +45,8 @@
 }
 {
   "instant" : {
-    "epochSecond" : 1733977109,
-    "nanoOfSecond" : 646486000
+    "epochSecond" : 1704358143,
+    "nanoOfSecond" : 796776000
   },
   "thread" : "main",
   "level" : "INFO",
@@ -60,8 +60,8 @@
 }
 {
   "instant" : {
-    "epochSecond" : 1733977109,
-    "nanoOfSecond" : 647177000
+    "epochSecond" : 1704358143,
+    "nanoOfSecond" : 797523000
   },
   "thread" : "main",
   "level" : "INFO",
@@ -75,8 +75,8 @@
 }
 {
   "instant" : {
-    "epochSecond" : 1733977109,
-    "nanoOfSecond" : 647532000
+    "epochSecond" : 1704358143,
+    "nanoOfSecond" : 797895000
   },
   "thread" : "main",
   "level" : "INFO",
@@ -90,8 +90,8 @@
 }
 {
   "instant" : {
-    "epochSecond" : 1733977109,
-    "nanoOfSecond" : 682769000
+    "epochSecond" : 1704358143,
+    "nanoOfSecond" : 832626000
   },
   "thread" : "main",
   "level" : "INFO",
@@ -105,13 +105,13 @@
 }
 {
   "instant" : {
-    "epochSecond" : 1733977109,
-    "nanoOfSecond" : 683132000
+    "epochSecond" : 1704358143,
+    "nanoOfSecond" : 832991000
   },
   "thread" : "main",
   "level" : "INFO",
   "loggerName" : "org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext",
-  "message" : "Root WebApplicationContext: initialization completed in 381 ms",
+  "message" : "Root WebApplicationContext: initialization completed in 363 ms",
   "endOfBatch" : false,
   "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
   "threadId" : 1,
@@ -120,8 +120,8 @@
 }
 {
   "instant" : {
-    "epochSecond" : 1733977109,
-    "nanoOfSecond" : 810851000
+    "epochSecond" : 1704358143,
+    "nanoOfSecond" : 956178000
   },
   "thread" : "main",
   "level" : "INFO",
@@ -135,8 +135,8 @@
 }
 {
   "instant" : {
-    "epochSecond" : 1733977109,
-    "nanoOfSecond" : 823497000
+    "epochSecond" : 1704358143,
+    "nanoOfSecond" : 970962000
   },
   "thread" : "main",
   "level" : "INFO",
@@ -150,13 +150,13 @@
 }
 {
   "instant" : {
-    "epochSecond" : 1733977109,
-    "nanoOfSecond" : 828279000
+    "epochSecond" : 1704358143,
+    "nanoOfSecond" : 975942000
   },
   "thread" : "main",
   "level" : "INFO",
   "loggerName" : "com.log4j2.Log4j2",
-  "message" : "Started Log4j2 in 0.776 seconds (JVM running for 1.039)",
+  "message" : "Started Log4j2 in 0.756 seconds (JVM running for 1.007)",
   "endOfBatch" : false,
   "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
   "threadId" : 1,
@@ -165,8 +165,173 @@
 }
 {
   "instant" : {
-    "epochSecond" : 1733977119,
-    "nanoOfSecond" : 489857000
+    "epochSecond" : 1704358297,
+    "nanoOfSecond" : 294439000
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "com.log4j2.Log4j2",
+  "message" : "Starting Log4j2 using Java 18.0.1.1 on gimbyeong-ung-ui-MacBookAir.local with PID 33742 (/Users/ung/Documents/Spring/Log4j2/build/classes/java/main started by ung in /Users/ung/Documents/Spring/Log4j2)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "service" : "simple"
+}
+{
+  "instant" : {
+    "epochSecond" : 1704358297,
+    "nanoOfSecond" : 329106000
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "com.log4j2.Log4j2",
+  "message" : "No active profile set, falling back to 1 default profile: \"default\"",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "service" : "simple"
+}
+{
+  "instant" : {
+    "epochSecond" : 1704358297,
+    "nanoOfSecond" : 734632000
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.embedded.tomcat.TomcatWebServer",
+  "message" : "Tomcat initialized with port(s): 8080 (http)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "service" : "simple"
+}
+{
+  "instant" : {
+    "epochSecond" : 1704358297,
+    "nanoOfSecond" : 742336000
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "org.apache.coyote.http11.Http11NioProtocol",
+  "message" : "Initializing ProtocolHandler [\"http-nio-8080\"]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "service" : "simple"
+}
+{
+  "instant" : {
+    "epochSecond" : 1704358297,
+    "nanoOfSecond" : 742920000
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardService",
+  "message" : "Starting service [Tomcat]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "service" : "simple"
+}
+{
+  "instant" : {
+    "epochSecond" : 1704358297,
+    "nanoOfSecond" : 743352000
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardEngine",
+  "message" : "Starting Servlet engine: [Apache Tomcat/9.0.65]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "service" : "simple"
+}
+{
+  "instant" : {
+    "epochSecond" : 1704358297,
+    "nanoOfSecond" : 779119000
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]",
+  "message" : "Initializing Spring embedded WebApplicationContext",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "service" : "simple"
+}
+{
+  "instant" : {
+    "epochSecond" : 1704358297,
+    "nanoOfSecond" : 779462000
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext",
+  "message" : "Root WebApplicationContext: initialization completed in 432 ms",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "service" : "simple"
+}
+{
+  "instant" : {
+    "epochSecond" : 1704358297,
+    "nanoOfSecond" : 906731000
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "org.apache.coyote.http11.Http11NioProtocol",
+  "message" : "Starting ProtocolHandler [\"http-nio-8080\"]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "service" : "simple"
+}
+{
+  "instant" : {
+    "epochSecond" : 1704358297,
+    "nanoOfSecond" : 922262000
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.embedded.tomcat.TomcatWebServer",
+  "message" : "Tomcat started on port(s): 8080 (http) with context path ''",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "service" : "simple"
+}
+{
+  "instant" : {
+    "epochSecond" : 1704358297,
+    "nanoOfSecond" : 926864000
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "com.log4j2.Log4j2",
+  "message" : "Started Log4j2 in 0.858 seconds (JVM running for 1.145)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "service" : "simple"
+}
+{
+  "instant" : {
+    "epochSecond" : 1704358303,
+    "nanoOfSecond" : 700599000
   },
   "thread" : "http-nio-8080-exec-1",
   "level" : "INFO",
@@ -180,8 +345,8 @@
 }
 {
   "instant" : {
-    "epochSecond" : 1733977119,
-    "nanoOfSecond" : 490970000
+    "epochSecond" : 1704358303,
+    "nanoOfSecond" : 701044000
   },
   "thread" : "http-nio-8080-exec-1",
   "level" : "INFO",
@@ -195,8 +360,8 @@
 }
 {
   "instant" : {
-    "epochSecond" : 1733977119,
-    "nanoOfSecond" : 491945000
+    "epochSecond" : 1704358303,
+    "nanoOfSecond" : 701823000
   },
   "thread" : "http-nio-8080-exec-1",
   "level" : "INFO",
@@ -210,10 +375,10 @@
 }
 {
   "instant" : {
-    "epochSecond" : 1733977123,
-    "nanoOfSecond" : 809441000
+    "epochSecond" : 1704358303,
+    "nanoOfSecond" : 715193000
   },
-  "thread" : "http-nio-8080-exec-2",
+  "thread" : "http-nio-8080-exec-1",
   "level" : "ERROR",
   "loggerName" : "org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet]",
   "message" : "Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.ArithmeticException: / by zero] with root cause",
@@ -226,7 +391,7 @@
       "class" : "com.log4j2.controller.Log4j2Controller",
       "method" : "log4j2",
       "file" : "Log4j2Controller.java",
-      "line" : 27,
+      "line" : 13,
       "exact" : false,
       "location" : "main/",
       "version" : "?"
@@ -618,19 +783,19 @@
   },
   "endOfBatch" : false,
   "loggerFqcn" : "java.util.logging.Logger",
-  "threadId" : 22,
+  "threadId" : 21,
   "threadPriority" : 5,
   "service" : "simple"
 }
 {
   "instant" : {
-    "epochSecond" : 1733979430,
-    "nanoOfSecond" : 265497000
+    "epochSecond" : 1733889601,
+    "nanoOfSecond" : 832143000
   },
   "thread" : "main",
   "level" : "INFO",
   "loggerName" : "com.log4j2.Log4j2",
-  "message" : "Starting Log4j2 using Java 18.0.1.1 on gimbyeong-ung-ui-MacBookAir.local with PID 13696 (/Users/ung/Downloads/Log4j2/build/classes/java/main started by ung in /Users/ung/Downloads/Log4j2)",
+  "message" : "Starting Log4j2 using Java 18.0.1.1 on gimbyeong-ung-ui-MacBookAir.local with PID 64176 (/Users/ung/Downloads/Log4j2/build/classes/java/main started by ung in /Users/ung/Downloads/Log4j2)",
   "endOfBatch" : false,
   "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
   "threadId" : 1,
@@ -639,8 +804,8 @@
 }
 {
   "instant" : {
-    "epochSecond" : 1733979430,
-    "nanoOfSecond" : 295869000
+    "epochSecond" : 1733889601,
+    "nanoOfSecond" : 866790000
   },
   "thread" : "main",
   "level" : "INFO",
@@ -654,8 +819,8 @@
 }
 {
   "instant" : {
-    "epochSecond" : 1733979430,
-    "nanoOfSecond" : 644724000
+    "epochSecond" : 1733889602,
+    "nanoOfSecond" : 206375000
   },
   "thread" : "main",
   "level" : "INFO",
@@ -669,8 +834,8 @@
 }
 {
   "instant" : {
-    "epochSecond" : 1733979430,
-    "nanoOfSecond" : 652996000
+    "epochSecond" : 1733889602,
+    "nanoOfSecond" : 214247000
   },
   "thread" : "main",
   "level" : "INFO",
@@ -684,8 +849,8 @@
 }
 {
   "instant" : {
-    "epochSecond" : 1733979430,
-    "nanoOfSecond" : 653626000
+    "epochSecond" : 1733889602,
+    "nanoOfSecond" : 214908000
   },
   "thread" : "main",
   "level" : "INFO",
@@ -699,8 +864,8 @@
 }
 {
   "instant" : {
-    "epochSecond" : 1733979430,
-    "nanoOfSecond" : 653976000
+    "epochSecond" : 1733889602,
+    "nanoOfSecond" : 215381000
   },
   "thread" : "main",
   "level" : "INFO",
@@ -714,8 +879,8 @@
 }
 {
   "instant" : {
-    "epochSecond" : 1733979430,
-    "nanoOfSecond" : 702224000
+    "epochSecond" : 1733889602,
+    "nanoOfSecond" : 262084000
   },
   "thread" : "main",
   "level" : "INFO",
@@ -729,13 +894,13 @@
 }
 {
   "instant" : {
-    "epochSecond" : 1733979430,
-    "nanoOfSecond" : 702645000
+    "epochSecond" : 1733889602,
+    "nanoOfSecond" : 262446000
   },
   "thread" : "main",
   "level" : "INFO",
   "loggerName" : "org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext",
-  "message" : "Root WebApplicationContext: initialization completed in 391 ms",
+  "message" : "Root WebApplicationContext: initialization completed in 379 ms",
   "endOfBatch" : false,
   "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
   "threadId" : 1,
@@ -744,8 +909,8 @@
 }
 {
   "instant" : {
-    "epochSecond" : 1733979430,
-    "nanoOfSecond" : 827113000
+    "epochSecond" : 1733889602,
+    "nanoOfSecond" : 390919000
   },
   "thread" : "main",
   "level" : "INFO",
@@ -759,8 +924,8 @@
 }
 {
   "instant" : {
-    "epochSecond" : 1733979430,
-    "nanoOfSecond" : 838595000
+    "epochSecond" : 1733889602,
+    "nanoOfSecond" : 406909000
   },
   "thread" : "main",
   "level" : "INFO",
@@ -774,13 +939,13 @@
 }
 {
   "instant" : {
-    "epochSecond" : 1733979430,
-    "nanoOfSecond" : 842970000
+    "epochSecond" : 1733889602,
+    "nanoOfSecond" : 411605000
   },
   "thread" : "main",
   "level" : "INFO",
   "loggerName" : "com.log4j2.Log4j2",
-  "message" : "Started Log4j2 in 0.787 seconds (JVM running for 1.048)",
+  "message" : "Started Log4j2 in 0.798 seconds (JVM running for 1.057)",
   "endOfBatch" : false,
   "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
   "threadId" : 1,
@@ -789,8 +954,8 @@
 }
 {
   "instant" : {
-    "epochSecond" : 1733979434,
-    "nanoOfSecond" : 535964000
+    "epochSecond" : 1733889636,
+    "nanoOfSecond" : 730101000
   },
   "thread" : "http-nio-8080-exec-1",
   "level" : "INFO",
@@ -804,8 +969,8 @@
 }
 {
   "instant" : {
-    "epochSecond" : 1733979434,
-    "nanoOfSecond" : 536490000
+    "epochSecond" : 1733889636,
+    "nanoOfSecond" : 730664000
   },
   "thread" : "http-nio-8080-exec-1",
   "level" : "INFO",
@@ -819,8 +984,1256 @@
 }
 {
   "instant" : {
-    "epochSecond" : 1733979434,
-    "nanoOfSecond" : 537560000
+    "epochSecond" : 1733889636,
+    "nanoOfSecond" : 732097000
+  },
+  "thread" : "http-nio-8080-exec-1",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.web.servlet.DispatcherServlet",
+  "message" : "Completed initialization in 2 ms",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "simple"
+}
+{
+  "instant" : {
+    "epochSecond" : 1733889639,
+    "nanoOfSecond" : 466103000
+  },
+  "thread" : "http-nio-8080-exec-4",
+  "level" : "ERROR",
+  "loggerName" : "org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet]",
+  "message" : "Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.ArithmeticException: / by zero] with root cause",
+  "thrown" : {
+    "commonElementCount" : 0,
+    "localizedMessage" : "/ by zero",
+    "message" : "/ by zero",
+    "name" : "java.lang.ArithmeticException",
+    "extendedStackTrace" : [ {
+      "class" : "com.log4j2.controller.Log4j2Controller",
+      "method" : "log4j2",
+      "file" : "Log4j2Controller.java",
+      "line" : 13,
+      "exact" : false,
+      "location" : "main/",
+      "version" : "?"
+    }, {
+      "class" : "jdk.internal.reflect.DirectMethodHandleAccessor",
+      "method" : "invoke",
+      "file" : "DirectMethodHandleAccessor.java",
+      "line" : 104,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "class" : "java.lang.reflect.Method",
+      "method" : "invoke",
+      "file" : "Method.java",
+      "line" : 577,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "class" : "org.springframework.web.method.support.InvocableHandlerMethod",
+      "method" : "doInvoke",
+      "file" : "InvocableHandlerMethod.java",
+      "line" : 205,
+      "exact" : false,
+      "location" : "spring-web-5.3.23.jar",
+      "version" : "5.3.23"
+    }, {
+      "class" : "org.springframework.web.method.support.InvocableHandlerMethod",
+      "method" : "invokeForRequest",
+      "file" : "InvocableHandlerMethod.java",
+      "line" : 150,
+      "exact" : false,
+      "location" : "spring-web-5.3.23.jar",
+      "version" : "5.3.23"
+    }, {
+      "class" : "org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod",
+      "method" : "invokeAndHandle",
+      "file" : "ServletInvocableHandlerMethod.java",
+      "line" : 117,
+      "exact" : false,
+      "location" : "spring-webmvc-5.3.23.jar",
+      "version" : "5.3.23"
+    }, {
+      "class" : "org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter",
+      "method" : "invokeHandlerMethod",
+      "file" : "RequestMappingHandlerAdapter.java",
+      "line" : 895,
+      "exact" : false,
+      "location" : "spring-webmvc-5.3.23.jar",
+      "version" : "5.3.23"
+    }, {
+      "class" : "org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter",
+      "method" : "handleInternal",
+      "file" : "RequestMappingHandlerAdapter.java",
+      "line" : 808,
+      "exact" : false,
+      "location" : "spring-webmvc-5.3.23.jar",
+      "version" : "5.3.23"
+    }, {
+      "class" : "org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter",
+      "method" : "handle",
+      "file" : "AbstractHandlerMethodAdapter.java",
+      "line" : 87,
+      "exact" : false,
+      "location" : "spring-webmvc-5.3.23.jar",
+      "version" : "5.3.23"
+    }, {
+      "class" : "org.springframework.web.servlet.DispatcherServlet",
+      "method" : "doDispatch",
+      "file" : "DispatcherServlet.java",
+      "line" : 1071,
+      "exact" : false,
+      "location" : "spring-webmvc-5.3.23.jar",
+      "version" : "5.3.23"
+    }, {
+      "class" : "org.springframework.web.servlet.DispatcherServlet",
+      "method" : "doService",
+      "file" : "DispatcherServlet.java",
+      "line" : 964,
+      "exact" : false,
+      "location" : "spring-webmvc-5.3.23.jar",
+      "version" : "5.3.23"
+    }, {
+      "class" : "org.springframework.web.servlet.FrameworkServlet",
+      "method" : "processRequest",
+      "file" : "FrameworkServlet.java",
+      "line" : 1006,
+      "exact" : false,
+      "location" : "spring-webmvc-5.3.23.jar",
+      "version" : "5.3.23"
+    }, {
+      "class" : "org.springframework.web.servlet.FrameworkServlet",
+      "method" : "doGet",
+      "file" : "FrameworkServlet.java",
+      "line" : 898,
+      "exact" : false,
+      "location" : "spring-webmvc-5.3.23.jar",
+      "version" : "5.3.23"
+    }, {
+      "class" : "javax.servlet.http.HttpServlet",
+      "method" : "service",
+      "file" : "HttpServlet.java",
+      "line" : 655,
+      "exact" : false,
+      "location" : "tomcat-embed-core-9.0.65.jar",
+      "version" : "4.0.FR"
+    }, {
+      "class" : "org.springframework.web.servlet.FrameworkServlet",
+      "method" : "service",
+      "file" : "FrameworkServlet.java",
+      "line" : 883,
+      "exact" : false,
+      "location" : "spring-webmvc-5.3.23.jar",
+      "version" : "5.3.23"
+    }, {
+      "class" : "javax.servlet.http.HttpServlet",
+      "method" : "service",
+      "file" : "HttpServlet.java",
+      "line" : 764,
+      "exact" : false,
+      "location" : "tomcat-embed-core-9.0.65.jar",
+      "version" : "4.0.FR"
+    }, {
+      "class" : "org.apache.catalina.core.ApplicationFilterChain",
+      "method" : "internalDoFilter",
+      "file" : "ApplicationFilterChain.java",
+      "line" : 227,
+      "exact" : false,
+      "location" : "tomcat-embed-core-9.0.65.jar",
+      "version" : "9.0.65"
+    }, {
+      "class" : "org.apache.catalina.core.ApplicationFilterChain",
+      "method" : "doFilter",
+      "file" : "ApplicationFilterChain.java",
+      "line" : 162,
+      "exact" : false,
+      "location" : "tomcat-embed-core-9.0.65.jar",
+      "version" : "9.0.65"
+    }, {
+      "class" : "org.apache.tomcat.websocket.server.WsFilter",
+      "method" : "doFilter",
+      "file" : "WsFilter.java",
+      "line" : 53,
+      "exact" : false,
+      "location" : "tomcat-embed-websocket-9.0.65.jar",
+      "version" : "9.0.65"
+    }, {
+      "class" : "org.apache.catalina.core.ApplicationFilterChain",
+      "method" : "internalDoFilter",
+      "file" : "ApplicationFilterChain.java",
+      "line" : 189,
+      "exact" : false,
+      "location" : "tomcat-embed-core-9.0.65.jar",
+      "version" : "9.0.65"
+    }, {
+      "class" : "org.apache.catalina.core.ApplicationFilterChain",
+      "method" : "doFilter",
+      "file" : "ApplicationFilterChain.java",
+      "line" : 162,
+      "exact" : false,
+      "location" : "tomcat-embed-core-9.0.65.jar",
+      "version" : "9.0.65"
+    }, {
+      "class" : "org.springframework.web.filter.RequestContextFilter",
+      "method" : "doFilterInternal",
+      "file" : "RequestContextFilter.java",
+      "line" : 100,
+      "exact" : false,
+      "location" : "spring-web-5.3.23.jar",
+      "version" : "5.3.23"
+    }, {
+      "class" : "org.springframework.web.filter.OncePerRequestFilter",
+      "method" : "doFilter",
+      "file" : "OncePerRequestFilter.java",
+      "line" : 117,
+      "exact" : false,
+      "location" : "spring-web-5.3.23.jar",
+      "version" : "5.3.23"
+    }, {
+      "class" : "org.apache.catalina.core.ApplicationFilterChain",
+      "method" : "internalDoFilter",
+      "file" : "ApplicationFilterChain.java",
+      "line" : 189,
+      "exact" : false,
+      "location" : "tomcat-embed-core-9.0.65.jar",
+      "version" : "9.0.65"
+    }, {
+      "class" : "org.apache.catalina.core.ApplicationFilterChain",
+      "method" : "doFilter",
+      "file" : "ApplicationFilterChain.java",
+      "line" : 162,
+      "exact" : false,
+      "location" : "tomcat-embed-core-9.0.65.jar",
+      "version" : "9.0.65"
+    }, {
+      "class" : "org.springframework.web.filter.FormContentFilter",
+      "method" : "doFilterInternal",
+      "file" : "FormContentFilter.java",
+      "line" : 93,
+      "exact" : false,
+      "location" : "spring-web-5.3.23.jar",
+      "version" : "5.3.23"
+    }, {
+      "class" : "org.springframework.web.filter.OncePerRequestFilter",
+      "method" : "doFilter",
+      "file" : "OncePerRequestFilter.java",
+      "line" : 117,
+      "exact" : false,
+      "location" : "spring-web-5.3.23.jar",
+      "version" : "5.3.23"
+    }, {
+      "class" : "org.apache.catalina.core.ApplicationFilterChain",
+      "method" : "internalDoFilter",
+      "file" : "ApplicationFilterChain.java",
+      "line" : 189,
+      "exact" : false,
+      "location" : "tomcat-embed-core-9.0.65.jar",
+      "version" : "9.0.65"
+    }, {
+      "class" : "org.apache.catalina.core.ApplicationFilterChain",
+      "method" : "doFilter",
+      "file" : "ApplicationFilterChain.java",
+      "line" : 162,
+      "exact" : false,
+      "location" : "tomcat-embed-core-9.0.65.jar",
+      "version" : "9.0.65"
+    }, {
+      "class" : "org.springframework.web.filter.CharacterEncodingFilter",
+      "method" : "doFilterInternal",
+      "file" : "CharacterEncodingFilter.java",
+      "line" : 201,
+      "exact" : false,
+      "location" : "spring-web-5.3.23.jar",
+      "version" : "5.3.23"
+    }, {
+      "class" : "org.springframework.web.filter.OncePerRequestFilter",
+      "method" : "doFilter",
+      "file" : "OncePerRequestFilter.java",
+      "line" : 117,
+      "exact" : false,
+      "location" : "spring-web-5.3.23.jar",
+      "version" : "5.3.23"
+    }, {
+      "class" : "org.apache.catalina.core.ApplicationFilterChain",
+      "method" : "internalDoFilter",
+      "file" : "ApplicationFilterChain.java",
+      "line" : 189,
+      "exact" : false,
+      "location" : "tomcat-embed-core-9.0.65.jar",
+      "version" : "9.0.65"
+    }, {
+      "class" : "org.apache.catalina.core.ApplicationFilterChain",
+      "method" : "doFilter",
+      "file" : "ApplicationFilterChain.java",
+      "line" : 162,
+      "exact" : false,
+      "location" : "tomcat-embed-core-9.0.65.jar",
+      "version" : "9.0.65"
+    }, {
+      "class" : "org.apache.catalina.core.StandardWrapperValve",
+      "method" : "invoke",
+      "file" : "StandardWrapperValve.java",
+      "line" : 197,
+      "exact" : false,
+      "location" : "tomcat-embed-core-9.0.65.jar",
+      "version" : "9.0.65"
+    }, {
+      "class" : "org.apache.catalina.core.StandardContextValve",
+      "method" : "invoke",
+      "file" : "StandardContextValve.java",
+      "line" : 97,
+      "exact" : false,
+      "location" : "tomcat-embed-core-9.0.65.jar",
+      "version" : "9.0.65"
+    }, {
+      "class" : "org.apache.catalina.authenticator.AuthenticatorBase",
+      "method" : "invoke",
+      "file" : "AuthenticatorBase.java",
+      "line" : 541,
+      "exact" : false,
+      "location" : "tomcat-embed-core-9.0.65.jar",
+      "version" : "9.0.65"
+    }, {
+      "class" : "org.apache.catalina.core.StandardHostValve",
+      "method" : "invoke",
+      "file" : "StandardHostValve.java",
+      "line" : 135,
+      "exact" : false,
+      "location" : "tomcat-embed-core-9.0.65.jar",
+      "version" : "9.0.65"
+    }, {
+      "class" : "org.apache.catalina.valves.ErrorReportValve",
+      "method" : "invoke",
+      "file" : "ErrorReportValve.java",
+      "line" : 92,
+      "exact" : false,
+      "location" : "tomcat-embed-core-9.0.65.jar",
+      "version" : "9.0.65"
+    }, {
+      "class" : "org.apache.catalina.core.StandardEngineValve",
+      "method" : "invoke",
+      "file" : "StandardEngineValve.java",
+      "line" : 78,
+      "exact" : false,
+      "location" : "tomcat-embed-core-9.0.65.jar",
+      "version" : "9.0.65"
+    }, {
+      "class" : "org.apache.catalina.connector.CoyoteAdapter",
+      "method" : "service",
+      "file" : "CoyoteAdapter.java",
+      "line" : 360,
+      "exact" : false,
+      "location" : "tomcat-embed-core-9.0.65.jar",
+      "version" : "9.0.65"
+    }, {
+      "class" : "org.apache.coyote.http11.Http11Processor",
+      "method" : "service",
+      "file" : "Http11Processor.java",
+      "line" : 399,
+      "exact" : false,
+      "location" : "tomcat-embed-core-9.0.65.jar",
+      "version" : "9.0.65"
+    }, {
+      "class" : "org.apache.coyote.AbstractProcessorLight",
+      "method" : "process",
+      "file" : "AbstractProcessorLight.java",
+      "line" : 65,
+      "exact" : false,
+      "location" : "tomcat-embed-core-9.0.65.jar",
+      "version" : "9.0.65"
+    }, {
+      "class" : "org.apache.coyote.AbstractProtocol$ConnectionHandler",
+      "method" : "process",
+      "file" : "AbstractProtocol.java",
+      "line" : 890,
+      "exact" : false,
+      "location" : "tomcat-embed-core-9.0.65.jar",
+      "version" : "9.0.65"
+    }, {
+      "class" : "org.apache.tomcat.util.net.NioEndpoint$SocketProcessor",
+      "method" : "doRun",
+      "file" : "NioEndpoint.java",
+      "line" : 1789,
+      "exact" : false,
+      "location" : "tomcat-embed-core-9.0.65.jar",
+      "version" : "9.0.65"
+    }, {
+      "class" : "org.apache.tomcat.util.net.SocketProcessorBase",
+      "method" : "run",
+      "file" : "SocketProcessorBase.java",
+      "line" : 49,
+      "exact" : false,
+      "location" : "tomcat-embed-core-9.0.65.jar",
+      "version" : "9.0.65"
+    }, {
+      "class" : "org.apache.tomcat.util.threads.ThreadPoolExecutor",
+      "method" : "runWorker",
+      "file" : "ThreadPoolExecutor.java",
+      "line" : 1191,
+      "exact" : false,
+      "location" : "tomcat-embed-core-9.0.65.jar",
+      "version" : "9.0.65"
+    }, {
+      "class" : "org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker",
+      "method" : "run",
+      "file" : "ThreadPoolExecutor.java",
+      "line" : 659,
+      "exact" : false,
+      "location" : "tomcat-embed-core-9.0.65.jar",
+      "version" : "9.0.65"
+    }, {
+      "class" : "org.apache.tomcat.util.threads.TaskThread$WrappingRunnable",
+      "method" : "run",
+      "file" : "TaskThread.java",
+      "line" : 61,
+      "exact" : false,
+      "location" : "tomcat-embed-core-9.0.65.jar",
+      "version" : "9.0.65"
+    }, {
+      "class" : "java.lang.Thread",
+      "method" : "run",
+      "file" : "Thread.java",
+      "line" : 833,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    } ]
+  },
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 24,
+  "threadPriority" : 5,
+  "service" : "simple"
+}
+{
+  "instant" : {
+    "epochSecond" : 1733891326,
+    "nanoOfSecond" : 292128000
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "com.log4j2.Log4j2",
+  "message" : "Starting Log4j2 using Java 18.0.1.1 on gimbyeong-ung-ui-MacBookAir.local with PID 66095 (/Users/ung/Downloads/Log4j2/build/classes/java/main started by ung in /Users/ung/Downloads/Log4j2)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "service" : "simple"
+}
+{
+  "instant" : {
+    "epochSecond" : 1733891326,
+    "nanoOfSecond" : 322005000
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "com.log4j2.Log4j2",
+  "message" : "No active profile set, falling back to 1 default profile: \"default\"",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "service" : "simple"
+}
+{
+  "instant" : {
+    "epochSecond" : 1733891326,
+    "nanoOfSecond" : 647924000
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.embedded.tomcat.TomcatWebServer",
+  "message" : "Tomcat initialized with port(s): 8080 (http)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "service" : "simple"
+}
+{
+  "instant" : {
+    "epochSecond" : 1733891326,
+    "nanoOfSecond" : 655659000
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "org.apache.coyote.http11.Http11NioProtocol",
+  "message" : "Initializing ProtocolHandler [\"http-nio-8080\"]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "service" : "simple"
+}
+{
+  "instant" : {
+    "epochSecond" : 1733891326,
+    "nanoOfSecond" : 656205000
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardService",
+  "message" : "Starting service [Tomcat]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "service" : "simple"
+}
+{
+  "instant" : {
+    "epochSecond" : 1733891326,
+    "nanoOfSecond" : 656576000
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardEngine",
+  "message" : "Starting Servlet engine: [Apache Tomcat/9.0.65]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "service" : "simple"
+}
+{
+  "instant" : {
+    "epochSecond" : 1733891326,
+    "nanoOfSecond" : 690591000
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]",
+  "message" : "Initializing Spring embedded WebApplicationContext",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "service" : "simple"
+}
+{
+  "instant" : {
+    "epochSecond" : 1733891326,
+    "nanoOfSecond" : 690960000
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext",
+  "message" : "Root WebApplicationContext: initialization completed in 354 ms",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "service" : "simple"
+}
+{
+  "instant" : {
+    "epochSecond" : 1733891326,
+    "nanoOfSecond" : 806376000
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "org.apache.coyote.http11.Http11NioProtocol",
+  "message" : "Starting ProtocolHandler [\"http-nio-8080\"]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "service" : "simple"
+}
+{
+  "instant" : {
+    "epochSecond" : 1733891326,
+    "nanoOfSecond" : 822739000
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.embedded.tomcat.TomcatWebServer",
+  "message" : "Tomcat started on port(s): 8080 (http) with context path ''",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "service" : "simple"
+}
+{
+  "instant" : {
+    "epochSecond" : 1733891326,
+    "nanoOfSecond" : 827432000
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "com.log4j2.Log4j2",
+  "message" : "Started Log4j2 in 0.737 seconds (JVM running for 0.988)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "service" : "simple"
+}
+{
+  "instant" : {
+    "epochSecond" : 1733891374,
+    "nanoOfSecond" : 196539000
+  },
+  "thread" : "http-nio-8080-exec-1",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]",
+  "message" : "Initializing Spring DispatcherServlet 'dispatcherServlet'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "simple"
+}
+{
+  "instant" : {
+    "epochSecond" : 1733891374,
+    "nanoOfSecond" : 197160000
+  },
+  "thread" : "http-nio-8080-exec-1",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.web.servlet.DispatcherServlet",
+  "message" : "Initializing Servlet 'dispatcherServlet'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "simple"
+}
+{
+  "instant" : {
+    "epochSecond" : 1733891374,
+    "nanoOfSecond" : 197966000
+  },
+  "thread" : "http-nio-8080-exec-1",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.web.servlet.DispatcherServlet",
+  "message" : "Completed initialization in 0 ms",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "simple"
+}
+{
+  "instant" : {
+    "epochSecond" : 1733891384,
+    "nanoOfSecond" : 331304000
+  },
+  "thread" : "http-nio-8080-exec-3",
+  "level" : "ERROR",
+  "loggerName" : "org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet]",
+  "message" : "Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.ArithmeticException: / by zero] with root cause",
+  "thrown" : {
+    "commonElementCount" : 0,
+    "localizedMessage" : "/ by zero",
+    "message" : "/ by zero",
+    "name" : "java.lang.ArithmeticException",
+    "extendedStackTrace" : [ {
+      "class" : "com.log4j2.controller.Log4j2Controller",
+      "method" : "log4j2",
+      "file" : "Log4j2Controller.java",
+      "line" : 13,
+      "exact" : false,
+      "location" : "main/",
+      "version" : "?"
+    }, {
+      "class" : "jdk.internal.reflect.DirectMethodHandleAccessor",
+      "method" : "invoke",
+      "file" : "DirectMethodHandleAccessor.java",
+      "line" : 104,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "class" : "java.lang.reflect.Method",
+      "method" : "invoke",
+      "file" : "Method.java",
+      "line" : 577,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "class" : "org.springframework.web.method.support.InvocableHandlerMethod",
+      "method" : "doInvoke",
+      "file" : "InvocableHandlerMethod.java",
+      "line" : 205,
+      "exact" : false,
+      "location" : "spring-web-5.3.23.jar",
+      "version" : "5.3.23"
+    }, {
+      "class" : "org.springframework.web.method.support.InvocableHandlerMethod",
+      "method" : "invokeForRequest",
+      "file" : "InvocableHandlerMethod.java",
+      "line" : 150,
+      "exact" : false,
+      "location" : "spring-web-5.3.23.jar",
+      "version" : "5.3.23"
+    }, {
+      "class" : "org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod",
+      "method" : "invokeAndHandle",
+      "file" : "ServletInvocableHandlerMethod.java",
+      "line" : 117,
+      "exact" : false,
+      "location" : "spring-webmvc-5.3.23.jar",
+      "version" : "5.3.23"
+    }, {
+      "class" : "org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter",
+      "method" : "invokeHandlerMethod",
+      "file" : "RequestMappingHandlerAdapter.java",
+      "line" : 895,
+      "exact" : false,
+      "location" : "spring-webmvc-5.3.23.jar",
+      "version" : "5.3.23"
+    }, {
+      "class" : "org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter",
+      "method" : "handleInternal",
+      "file" : "RequestMappingHandlerAdapter.java",
+      "line" : 808,
+      "exact" : false,
+      "location" : "spring-webmvc-5.3.23.jar",
+      "version" : "5.3.23"
+    }, {
+      "class" : "org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter",
+      "method" : "handle",
+      "file" : "AbstractHandlerMethodAdapter.java",
+      "line" : 87,
+      "exact" : false,
+      "location" : "spring-webmvc-5.3.23.jar",
+      "version" : "5.3.23"
+    }, {
+      "class" : "org.springframework.web.servlet.DispatcherServlet",
+      "method" : "doDispatch",
+      "file" : "DispatcherServlet.java",
+      "line" : 1071,
+      "exact" : false,
+      "location" : "spring-webmvc-5.3.23.jar",
+      "version" : "5.3.23"
+    }, {
+      "class" : "org.springframework.web.servlet.DispatcherServlet",
+      "method" : "doService",
+      "file" : "DispatcherServlet.java",
+      "line" : 964,
+      "exact" : false,
+      "location" : "spring-webmvc-5.3.23.jar",
+      "version" : "5.3.23"
+    }, {
+      "class" : "org.springframework.web.servlet.FrameworkServlet",
+      "method" : "processRequest",
+      "file" : "FrameworkServlet.java",
+      "line" : 1006,
+      "exact" : false,
+      "location" : "spring-webmvc-5.3.23.jar",
+      "version" : "5.3.23"
+    }, {
+      "class" : "org.springframework.web.servlet.FrameworkServlet",
+      "method" : "doGet",
+      "file" : "FrameworkServlet.java",
+      "line" : 898,
+      "exact" : false,
+      "location" : "spring-webmvc-5.3.23.jar",
+      "version" : "5.3.23"
+    }, {
+      "class" : "javax.servlet.http.HttpServlet",
+      "method" : "service",
+      "file" : "HttpServlet.java",
+      "line" : 655,
+      "exact" : false,
+      "location" : "tomcat-embed-core-9.0.65.jar",
+      "version" : "4.0.FR"
+    }, {
+      "class" : "org.springframework.web.servlet.FrameworkServlet",
+      "method" : "service",
+      "file" : "FrameworkServlet.java",
+      "line" : 883,
+      "exact" : false,
+      "location" : "spring-webmvc-5.3.23.jar",
+      "version" : "5.3.23"
+    }, {
+      "class" : "javax.servlet.http.HttpServlet",
+      "method" : "service",
+      "file" : "HttpServlet.java",
+      "line" : 764,
+      "exact" : false,
+      "location" : "tomcat-embed-core-9.0.65.jar",
+      "version" : "4.0.FR"
+    }, {
+      "class" : "org.apache.catalina.core.ApplicationFilterChain",
+      "method" : "internalDoFilter",
+      "file" : "ApplicationFilterChain.java",
+      "line" : 227,
+      "exact" : false,
+      "location" : "tomcat-embed-core-9.0.65.jar",
+      "version" : "9.0.65"
+    }, {
+      "class" : "org.apache.catalina.core.ApplicationFilterChain",
+      "method" : "doFilter",
+      "file" : "ApplicationFilterChain.java",
+      "line" : 162,
+      "exact" : false,
+      "location" : "tomcat-embed-core-9.0.65.jar",
+      "version" : "9.0.65"
+    }, {
+      "class" : "org.apache.tomcat.websocket.server.WsFilter",
+      "method" : "doFilter",
+      "file" : "WsFilter.java",
+      "line" : 53,
+      "exact" : false,
+      "location" : "tomcat-embed-websocket-9.0.65.jar",
+      "version" : "9.0.65"
+    }, {
+      "class" : "org.apache.catalina.core.ApplicationFilterChain",
+      "method" : "internalDoFilter",
+      "file" : "ApplicationFilterChain.java",
+      "line" : 189,
+      "exact" : false,
+      "location" : "tomcat-embed-core-9.0.65.jar",
+      "version" : "9.0.65"
+    }, {
+      "class" : "org.apache.catalina.core.ApplicationFilterChain",
+      "method" : "doFilter",
+      "file" : "ApplicationFilterChain.java",
+      "line" : 162,
+      "exact" : false,
+      "location" : "tomcat-embed-core-9.0.65.jar",
+      "version" : "9.0.65"
+    }, {
+      "class" : "org.springframework.web.filter.RequestContextFilter",
+      "method" : "doFilterInternal",
+      "file" : "RequestContextFilter.java",
+      "line" : 100,
+      "exact" : false,
+      "location" : "spring-web-5.3.23.jar",
+      "version" : "5.3.23"
+    }, {
+      "class" : "org.springframework.web.filter.OncePerRequestFilter",
+      "method" : "doFilter",
+      "file" : "OncePerRequestFilter.java",
+      "line" : 117,
+      "exact" : false,
+      "location" : "spring-web-5.3.23.jar",
+      "version" : "5.3.23"
+    }, {
+      "class" : "org.apache.catalina.core.ApplicationFilterChain",
+      "method" : "internalDoFilter",
+      "file" : "ApplicationFilterChain.java",
+      "line" : 189,
+      "exact" : false,
+      "location" : "tomcat-embed-core-9.0.65.jar",
+      "version" : "9.0.65"
+    }, {
+      "class" : "org.apache.catalina.core.ApplicationFilterChain",
+      "method" : "doFilter",
+      "file" : "ApplicationFilterChain.java",
+      "line" : 162,
+      "exact" : false,
+      "location" : "tomcat-embed-core-9.0.65.jar",
+      "version" : "9.0.65"
+    }, {
+      "class" : "org.springframework.web.filter.FormContentFilter",
+      "method" : "doFilterInternal",
+      "file" : "FormContentFilter.java",
+      "line" : 93,
+      "exact" : false,
+      "location" : "spring-web-5.3.23.jar",
+      "version" : "5.3.23"
+    }, {
+      "class" : "org.springframework.web.filter.OncePerRequestFilter",
+      "method" : "doFilter",
+      "file" : "OncePerRequestFilter.java",
+      "line" : 117,
+      "exact" : false,
+      "location" : "spring-web-5.3.23.jar",
+      "version" : "5.3.23"
+    }, {
+      "class" : "org.apache.catalina.core.ApplicationFilterChain",
+      "method" : "internalDoFilter",
+      "file" : "ApplicationFilterChain.java",
+      "line" : 189,
+      "exact" : false,
+      "location" : "tomcat-embed-core-9.0.65.jar",
+      "version" : "9.0.65"
+    }, {
+      "class" : "org.apache.catalina.core.ApplicationFilterChain",
+      "method" : "doFilter",
+      "file" : "ApplicationFilterChain.java",
+      "line" : 162,
+      "exact" : false,
+      "location" : "tomcat-embed-core-9.0.65.jar",
+      "version" : "9.0.65"
+    }, {
+      "class" : "org.springframework.web.filter.CharacterEncodingFilter",
+      "method" : "doFilterInternal",
+      "file" : "CharacterEncodingFilter.java",
+      "line" : 201,
+      "exact" : false,
+      "location" : "spring-web-5.3.23.jar",
+      "version" : "5.3.23"
+    }, {
+      "class" : "org.springframework.web.filter.OncePerRequestFilter",
+      "method" : "doFilter",
+      "file" : "OncePerRequestFilter.java",
+      "line" : 117,
+      "exact" : false,
+      "location" : "spring-web-5.3.23.jar",
+      "version" : "5.3.23"
+    }, {
+      "class" : "org.apache.catalina.core.ApplicationFilterChain",
+      "method" : "internalDoFilter",
+      "file" : "ApplicationFilterChain.java",
+      "line" : 189,
+      "exact" : false,
+      "location" : "tomcat-embed-core-9.0.65.jar",
+      "version" : "9.0.65"
+    }, {
+      "class" : "org.apache.catalina.core.ApplicationFilterChain",
+      "method" : "doFilter",
+      "file" : "ApplicationFilterChain.java",
+      "line" : 162,
+      "exact" : false,
+      "location" : "tomcat-embed-core-9.0.65.jar",
+      "version" : "9.0.65"
+    }, {
+      "class" : "org.apache.catalina.core.StandardWrapperValve",
+      "method" : "invoke",
+      "file" : "StandardWrapperValve.java",
+      "line" : 197,
+      "exact" : false,
+      "location" : "tomcat-embed-core-9.0.65.jar",
+      "version" : "9.0.65"
+    }, {
+      "class" : "org.apache.catalina.core.StandardContextValve",
+      "method" : "invoke",
+      "file" : "StandardContextValve.java",
+      "line" : 97,
+      "exact" : false,
+      "location" : "tomcat-embed-core-9.0.65.jar",
+      "version" : "9.0.65"
+    }, {
+      "class" : "org.apache.catalina.authenticator.AuthenticatorBase",
+      "method" : "invoke",
+      "file" : "AuthenticatorBase.java",
+      "line" : 541,
+      "exact" : false,
+      "location" : "tomcat-embed-core-9.0.65.jar",
+      "version" : "9.0.65"
+    }, {
+      "class" : "org.apache.catalina.core.StandardHostValve",
+      "method" : "invoke",
+      "file" : "StandardHostValve.java",
+      "line" : 135,
+      "exact" : false,
+      "location" : "tomcat-embed-core-9.0.65.jar",
+      "version" : "9.0.65"
+    }, {
+      "class" : "org.apache.catalina.valves.ErrorReportValve",
+      "method" : "invoke",
+      "file" : "ErrorReportValve.java",
+      "line" : 92,
+      "exact" : false,
+      "location" : "tomcat-embed-core-9.0.65.jar",
+      "version" : "9.0.65"
+    }, {
+      "class" : "org.apache.catalina.core.StandardEngineValve",
+      "method" : "invoke",
+      "file" : "StandardEngineValve.java",
+      "line" : 78,
+      "exact" : false,
+      "location" : "tomcat-embed-core-9.0.65.jar",
+      "version" : "9.0.65"
+    }, {
+      "class" : "org.apache.catalina.connector.CoyoteAdapter",
+      "method" : "service",
+      "file" : "CoyoteAdapter.java",
+      "line" : 360,
+      "exact" : false,
+      "location" : "tomcat-embed-core-9.0.65.jar",
+      "version" : "9.0.65"
+    }, {
+      "class" : "org.apache.coyote.http11.Http11Processor",
+      "method" : "service",
+      "file" : "Http11Processor.java",
+      "line" : 399,
+      "exact" : false,
+      "location" : "tomcat-embed-core-9.0.65.jar",
+      "version" : "9.0.65"
+    }, {
+      "class" : "org.apache.coyote.AbstractProcessorLight",
+      "method" : "process",
+      "file" : "AbstractProcessorLight.java",
+      "line" : 65,
+      "exact" : false,
+      "location" : "tomcat-embed-core-9.0.65.jar",
+      "version" : "9.0.65"
+    }, {
+      "class" : "org.apache.coyote.AbstractProtocol$ConnectionHandler",
+      "method" : "process",
+      "file" : "AbstractProtocol.java",
+      "line" : 890,
+      "exact" : false,
+      "location" : "tomcat-embed-core-9.0.65.jar",
+      "version" : "9.0.65"
+    }, {
+      "class" : "org.apache.tomcat.util.net.NioEndpoint$SocketProcessor",
+      "method" : "doRun",
+      "file" : "NioEndpoint.java",
+      "line" : 1789,
+      "exact" : false,
+      "location" : "tomcat-embed-core-9.0.65.jar",
+      "version" : "9.0.65"
+    }, {
+      "class" : "org.apache.tomcat.util.net.SocketProcessorBase",
+      "method" : "run",
+      "file" : "SocketProcessorBase.java",
+      "line" : 49,
+      "exact" : false,
+      "location" : "tomcat-embed-core-9.0.65.jar",
+      "version" : "9.0.65"
+    }, {
+      "class" : "org.apache.tomcat.util.threads.ThreadPoolExecutor",
+      "method" : "runWorker",
+      "file" : "ThreadPoolExecutor.java",
+      "line" : 1191,
+      "exact" : false,
+      "location" : "tomcat-embed-core-9.0.65.jar",
+      "version" : "9.0.65"
+    }, {
+      "class" : "org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker",
+      "method" : "run",
+      "file" : "ThreadPoolExecutor.java",
+      "line" : 659,
+      "exact" : false,
+      "location" : "tomcat-embed-core-9.0.65.jar",
+      "version" : "9.0.65"
+    }, {
+      "class" : "org.apache.tomcat.util.threads.TaskThread$WrappingRunnable",
+      "method" : "run",
+      "file" : "TaskThread.java",
+      "line" : 61,
+      "exact" : false,
+      "location" : "tomcat-embed-core-9.0.65.jar",
+      "version" : "9.0.65"
+    }, {
+      "class" : "java.lang.Thread",
+      "method" : "run",
+      "file" : "Thread.java",
+      "line" : 833,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    } ]
+  },
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 23,
+  "threadPriority" : 5,
+  "service" : "simple"
+}
+{
+  "instant" : {
+    "epochSecond" : 1733892408,
+    "nanoOfSecond" : 58767000
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "com.log4j2.Log4j2",
+  "message" : "Starting Log4j2 using Java 18.0.1.1 on gimbyeong-ung-ui-MacBookAir.local with PID 67256 (/Users/ung/Downloads/Log4j2/build/classes/java/main started by ung in /Users/ung/Downloads/Log4j2)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "service" : "simple"
+}
+{
+  "instant" : {
+    "epochSecond" : 1733892408,
+    "nanoOfSecond" : 88786000
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "com.log4j2.Log4j2",
+  "message" : "No active profile set, falling back to 1 default profile: \"default\"",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "service" : "simple"
+}
+{
+  "instant" : {
+    "epochSecond" : 1733892408,
+    "nanoOfSecond" : 452211000
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.embedded.tomcat.TomcatWebServer",
+  "message" : "Tomcat initialized with port(s): 8080 (http)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "service" : "simple"
+}
+{
+  "instant" : {
+    "epochSecond" : 1733892408,
+    "nanoOfSecond" : 459877000
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "org.apache.coyote.http11.Http11NioProtocol",
+  "message" : "Initializing ProtocolHandler [\"http-nio-8080\"]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "service" : "simple"
+}
+{
+  "instant" : {
+    "epochSecond" : 1733892408,
+    "nanoOfSecond" : 460494000
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardService",
+  "message" : "Starting service [Tomcat]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "service" : "simple"
+}
+{
+  "instant" : {
+    "epochSecond" : 1733892408,
+    "nanoOfSecond" : 460831000
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardEngine",
+  "message" : "Starting Servlet engine: [Apache Tomcat/9.0.65]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "service" : "simple"
+}
+{
+  "instant" : {
+    "epochSecond" : 1733892408,
+    "nanoOfSecond" : 503794000
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]",
+  "message" : "Initializing Spring embedded WebApplicationContext",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "service" : "simple"
+}
+{
+  "instant" : {
+    "epochSecond" : 1733892408,
+    "nanoOfSecond" : 504194000
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext",
+  "message" : "Root WebApplicationContext: initialization completed in 397 ms",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "service" : "simple"
+}
+{
+  "instant" : {
+    "epochSecond" : 1733892408,
+    "nanoOfSecond" : 631202000
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "org.apache.coyote.http11.Http11NioProtocol",
+  "message" : "Starting ProtocolHandler [\"http-nio-8080\"]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "service" : "simple"
+}
+{
+  "instant" : {
+    "epochSecond" : 1733892408,
+    "nanoOfSecond" : 642820000
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.embedded.tomcat.TomcatWebServer",
+  "message" : "Tomcat started on port(s): 8080 (http) with context path ''",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "service" : "simple"
+}
+{
+  "instant" : {
+    "epochSecond" : 1733892408,
+    "nanoOfSecond" : 647871000
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "com.log4j2.Log4j2",
+  "message" : "Started Log4j2 in 0.801 seconds (JVM running for 1.061)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "service" : "simple"
+}
+{
+  "instant" : {
+    "epochSecond" : 1733892427,
+    "nanoOfSecond" : 569797000
+  },
+  "thread" : "http-nio-8080-exec-1",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]",
+  "message" : "Initializing Spring DispatcherServlet 'dispatcherServlet'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "simple"
+}
+{
+  "instant" : {
+    "epochSecond" : 1733892427,
+    "nanoOfSecond" : 570492000
+  },
+  "thread" : "http-nio-8080-exec-1",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.web.servlet.DispatcherServlet",
+  "message" : "Initializing Servlet 'dispatcherServlet'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "simple"
+}
+{
+  "instant" : {
+    "epochSecond" : 1733892427,
+    "nanoOfSecond" : 571557000
   },
   "thread" : "http-nio-8080-exec-1",
   "level" : "INFO",
@@ -834,829 +2247,211 @@
 }
 {
   "instant" : {
-    "epochSecond" : 1733980956,
-    "nanoOfSecond" : 811417000
+    "epochSecond" : 1733892519,
+    "nanoOfSecond" : 851549000
   },
-  "thread" : "http-nio-8080-exec-5",
-  "level" : "ERROR",
-  "loggerName" : "org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet]",
-  "message" : "Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.ArithmeticException: / by zero] with root cause",
-  "thrown" : {
-    "commonElementCount" : 0,
-    "localizedMessage" : "/ by zero",
-    "message" : "/ by zero",
-    "name" : "java.lang.ArithmeticException",
-    "extendedStackTrace" : [ {
-      "class" : "com.log4j2.controller.Log4j2Controller",
-      "method" : "log4j2",
-      "file" : "Log4j2Controller.java",
-      "line" : 29,
-      "exact" : false,
-      "location" : "main/",
-      "version" : "?"
-    }, {
-      "class" : "jdk.internal.reflect.DirectMethodHandleAccessor",
-      "method" : "invoke",
-      "file" : "DirectMethodHandleAccessor.java",
-      "line" : 104,
-      "exact" : false,
-      "location" : "?",
-      "version" : "?"
-    }, {
-      "class" : "java.lang.reflect.Method",
-      "method" : "invoke",
-      "file" : "Method.java",
-      "line" : 577,
-      "exact" : false,
-      "location" : "?",
-      "version" : "?"
-    }, {
-      "class" : "org.springframework.web.method.support.InvocableHandlerMethod",
-      "method" : "doInvoke",
-      "file" : "InvocableHandlerMethod.java",
-      "line" : 205,
-      "exact" : false,
-      "location" : "spring-web-5.3.23.jar",
-      "version" : "5.3.23"
-    }, {
-      "class" : "org.springframework.web.method.support.InvocableHandlerMethod",
-      "method" : "invokeForRequest",
-      "file" : "InvocableHandlerMethod.java",
-      "line" : 150,
-      "exact" : false,
-      "location" : "spring-web-5.3.23.jar",
-      "version" : "5.3.23"
-    }, {
-      "class" : "org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod",
-      "method" : "invokeAndHandle",
-      "file" : "ServletInvocableHandlerMethod.java",
-      "line" : 117,
-      "exact" : false,
-      "location" : "spring-webmvc-5.3.23.jar",
-      "version" : "5.3.23"
-    }, {
-      "class" : "org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter",
-      "method" : "invokeHandlerMethod",
-      "file" : "RequestMappingHandlerAdapter.java",
-      "line" : 895,
-      "exact" : false,
-      "location" : "spring-webmvc-5.3.23.jar",
-      "version" : "5.3.23"
-    }, {
-      "class" : "org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter",
-      "method" : "handleInternal",
-      "file" : "RequestMappingHandlerAdapter.java",
-      "line" : 808,
-      "exact" : false,
-      "location" : "spring-webmvc-5.3.23.jar",
-      "version" : "5.3.23"
-    }, {
-      "class" : "org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter",
-      "method" : "handle",
-      "file" : "AbstractHandlerMethodAdapter.java",
-      "line" : 87,
-      "exact" : false,
-      "location" : "spring-webmvc-5.3.23.jar",
-      "version" : "5.3.23"
-    }, {
-      "class" : "org.springframework.web.servlet.DispatcherServlet",
-      "method" : "doDispatch",
-      "file" : "DispatcherServlet.java",
-      "line" : 1071,
-      "exact" : false,
-      "location" : "spring-webmvc-5.3.23.jar",
-      "version" : "5.3.23"
-    }, {
-      "class" : "org.springframework.web.servlet.DispatcherServlet",
-      "method" : "doService",
-      "file" : "DispatcherServlet.java",
-      "line" : 964,
-      "exact" : false,
-      "location" : "spring-webmvc-5.3.23.jar",
-      "version" : "5.3.23"
-    }, {
-      "class" : "org.springframework.web.servlet.FrameworkServlet",
-      "method" : "processRequest",
-      "file" : "FrameworkServlet.java",
-      "line" : 1006,
-      "exact" : false,
-      "location" : "spring-webmvc-5.3.23.jar",
-      "version" : "5.3.23"
-    }, {
-      "class" : "org.springframework.web.servlet.FrameworkServlet",
-      "method" : "doGet",
-      "file" : "FrameworkServlet.java",
-      "line" : 898,
-      "exact" : false,
-      "location" : "spring-webmvc-5.3.23.jar",
-      "version" : "5.3.23"
-    }, {
-      "class" : "javax.servlet.http.HttpServlet",
-      "method" : "service",
-      "file" : "HttpServlet.java",
-      "line" : 655,
-      "exact" : false,
-      "location" : "tomcat-embed-core-9.0.65.jar",
-      "version" : "4.0.FR"
-    }, {
-      "class" : "org.springframework.web.servlet.FrameworkServlet",
-      "method" : "service",
-      "file" : "FrameworkServlet.java",
-      "line" : 883,
-      "exact" : false,
-      "location" : "spring-webmvc-5.3.23.jar",
-      "version" : "5.3.23"
-    }, {
-      "class" : "javax.servlet.http.HttpServlet",
-      "method" : "service",
-      "file" : "HttpServlet.java",
-      "line" : 764,
-      "exact" : false,
-      "location" : "tomcat-embed-core-9.0.65.jar",
-      "version" : "4.0.FR"
-    }, {
-      "class" : "org.apache.catalina.core.ApplicationFilterChain",
-      "method" : "internalDoFilter",
-      "file" : "ApplicationFilterChain.java",
-      "line" : 227,
-      "exact" : false,
-      "location" : "tomcat-embed-core-9.0.65.jar",
-      "version" : "9.0.65"
-    }, {
-      "class" : "org.apache.catalina.core.ApplicationFilterChain",
-      "method" : "doFilter",
-      "file" : "ApplicationFilterChain.java",
-      "line" : 162,
-      "exact" : false,
-      "location" : "tomcat-embed-core-9.0.65.jar",
-      "version" : "9.0.65"
-    }, {
-      "class" : "org.apache.tomcat.websocket.server.WsFilter",
-      "method" : "doFilter",
-      "file" : "WsFilter.java",
-      "line" : 53,
-      "exact" : false,
-      "location" : "tomcat-embed-websocket-9.0.65.jar",
-      "version" : "9.0.65"
-    }, {
-      "class" : "org.apache.catalina.core.ApplicationFilterChain",
-      "method" : "internalDoFilter",
-      "file" : "ApplicationFilterChain.java",
-      "line" : 189,
-      "exact" : false,
-      "location" : "tomcat-embed-core-9.0.65.jar",
-      "version" : "9.0.65"
-    }, {
-      "class" : "org.apache.catalina.core.ApplicationFilterChain",
-      "method" : "doFilter",
-      "file" : "ApplicationFilterChain.java",
-      "line" : 162,
-      "exact" : false,
-      "location" : "tomcat-embed-core-9.0.65.jar",
-      "version" : "9.0.65"
-    }, {
-      "class" : "org.springframework.web.filter.RequestContextFilter",
-      "method" : "doFilterInternal",
-      "file" : "RequestContextFilter.java",
-      "line" : 100,
-      "exact" : false,
-      "location" : "spring-web-5.3.23.jar",
-      "version" : "5.3.23"
-    }, {
-      "class" : "org.springframework.web.filter.OncePerRequestFilter",
-      "method" : "doFilter",
-      "file" : "OncePerRequestFilter.java",
-      "line" : 117,
-      "exact" : false,
-      "location" : "spring-web-5.3.23.jar",
-      "version" : "5.3.23"
-    }, {
-      "class" : "org.apache.catalina.core.ApplicationFilterChain",
-      "method" : "internalDoFilter",
-      "file" : "ApplicationFilterChain.java",
-      "line" : 189,
-      "exact" : false,
-      "location" : "tomcat-embed-core-9.0.65.jar",
-      "version" : "9.0.65"
-    }, {
-      "class" : "org.apache.catalina.core.ApplicationFilterChain",
-      "method" : "doFilter",
-      "file" : "ApplicationFilterChain.java",
-      "line" : 162,
-      "exact" : false,
-      "location" : "tomcat-embed-core-9.0.65.jar",
-      "version" : "9.0.65"
-    }, {
-      "class" : "org.springframework.web.filter.FormContentFilter",
-      "method" : "doFilterInternal",
-      "file" : "FormContentFilter.java",
-      "line" : 93,
-      "exact" : false,
-      "location" : "spring-web-5.3.23.jar",
-      "version" : "5.3.23"
-    }, {
-      "class" : "org.springframework.web.filter.OncePerRequestFilter",
-      "method" : "doFilter",
-      "file" : "OncePerRequestFilter.java",
-      "line" : 117,
-      "exact" : false,
-      "location" : "spring-web-5.3.23.jar",
-      "version" : "5.3.23"
-    }, {
-      "class" : "org.apache.catalina.core.ApplicationFilterChain",
-      "method" : "internalDoFilter",
-      "file" : "ApplicationFilterChain.java",
-      "line" : 189,
-      "exact" : false,
-      "location" : "tomcat-embed-core-9.0.65.jar",
-      "version" : "9.0.65"
-    }, {
-      "class" : "org.apache.catalina.core.ApplicationFilterChain",
-      "method" : "doFilter",
-      "file" : "ApplicationFilterChain.java",
-      "line" : 162,
-      "exact" : false,
-      "location" : "tomcat-embed-core-9.0.65.jar",
-      "version" : "9.0.65"
-    }, {
-      "class" : "org.springframework.web.filter.CharacterEncodingFilter",
-      "method" : "doFilterInternal",
-      "file" : "CharacterEncodingFilter.java",
-      "line" : 201,
-      "exact" : false,
-      "location" : "spring-web-5.3.23.jar",
-      "version" : "5.3.23"
-    }, {
-      "class" : "org.springframework.web.filter.OncePerRequestFilter",
-      "method" : "doFilter",
-      "file" : "OncePerRequestFilter.java",
-      "line" : 117,
-      "exact" : false,
-      "location" : "spring-web-5.3.23.jar",
-      "version" : "5.3.23"
-    }, {
-      "class" : "org.apache.catalina.core.ApplicationFilterChain",
-      "method" : "internalDoFilter",
-      "file" : "ApplicationFilterChain.java",
-      "line" : 189,
-      "exact" : false,
-      "location" : "tomcat-embed-core-9.0.65.jar",
-      "version" : "9.0.65"
-    }, {
-      "class" : "org.apache.catalina.core.ApplicationFilterChain",
-      "method" : "doFilter",
-      "file" : "ApplicationFilterChain.java",
-      "line" : 162,
-      "exact" : false,
-      "location" : "tomcat-embed-core-9.0.65.jar",
-      "version" : "9.0.65"
-    }, {
-      "class" : "org.apache.catalina.core.StandardWrapperValve",
-      "method" : "invoke",
-      "file" : "StandardWrapperValve.java",
-      "line" : 197,
-      "exact" : false,
-      "location" : "tomcat-embed-core-9.0.65.jar",
-      "version" : "9.0.65"
-    }, {
-      "class" : "org.apache.catalina.core.StandardContextValve",
-      "method" : "invoke",
-      "file" : "StandardContextValve.java",
-      "line" : 97,
-      "exact" : false,
-      "location" : "tomcat-embed-core-9.0.65.jar",
-      "version" : "9.0.65"
-    }, {
-      "class" : "org.apache.catalina.authenticator.AuthenticatorBase",
-      "method" : "invoke",
-      "file" : "AuthenticatorBase.java",
-      "line" : 541,
-      "exact" : false,
-      "location" : "tomcat-embed-core-9.0.65.jar",
-      "version" : "9.0.65"
-    }, {
-      "class" : "org.apache.catalina.core.StandardHostValve",
-      "method" : "invoke",
-      "file" : "StandardHostValve.java",
-      "line" : 135,
-      "exact" : false,
-      "location" : "tomcat-embed-core-9.0.65.jar",
-      "version" : "9.0.65"
-    }, {
-      "class" : "org.apache.catalina.valves.ErrorReportValve",
-      "method" : "invoke",
-      "file" : "ErrorReportValve.java",
-      "line" : 92,
-      "exact" : false,
-      "location" : "tomcat-embed-core-9.0.65.jar",
-      "version" : "9.0.65"
-    }, {
-      "class" : "org.apache.catalina.core.StandardEngineValve",
-      "method" : "invoke",
-      "file" : "StandardEngineValve.java",
-      "line" : 78,
-      "exact" : false,
-      "location" : "tomcat-embed-core-9.0.65.jar",
-      "version" : "9.0.65"
-    }, {
-      "class" : "org.apache.catalina.connector.CoyoteAdapter",
-      "method" : "service",
-      "file" : "CoyoteAdapter.java",
-      "line" : 360,
-      "exact" : false,
-      "location" : "tomcat-embed-core-9.0.65.jar",
-      "version" : "9.0.65"
-    }, {
-      "class" : "org.apache.coyote.http11.Http11Processor",
-      "method" : "service",
-      "file" : "Http11Processor.java",
-      "line" : 399,
-      "exact" : false,
-      "location" : "tomcat-embed-core-9.0.65.jar",
-      "version" : "9.0.65"
-    }, {
-      "class" : "org.apache.coyote.AbstractProcessorLight",
-      "method" : "process",
-      "file" : "AbstractProcessorLight.java",
-      "line" : 65,
-      "exact" : false,
-      "location" : "tomcat-embed-core-9.0.65.jar",
-      "version" : "9.0.65"
-    }, {
-      "class" : "org.apache.coyote.AbstractProtocol$ConnectionHandler",
-      "method" : "process",
-      "file" : "AbstractProtocol.java",
-      "line" : 890,
-      "exact" : false,
-      "location" : "tomcat-embed-core-9.0.65.jar",
-      "version" : "9.0.65"
-    }, {
-      "class" : "org.apache.tomcat.util.net.NioEndpoint$SocketProcessor",
-      "method" : "doRun",
-      "file" : "NioEndpoint.java",
-      "line" : 1789,
-      "exact" : false,
-      "location" : "tomcat-embed-core-9.0.65.jar",
-      "version" : "9.0.65"
-    }, {
-      "class" : "org.apache.tomcat.util.net.SocketProcessorBase",
-      "method" : "run",
-      "file" : "SocketProcessorBase.java",
-      "line" : 49,
-      "exact" : false,
-      "location" : "tomcat-embed-core-9.0.65.jar",
-      "version" : "9.0.65"
-    }, {
-      "class" : "org.apache.tomcat.util.threads.ThreadPoolExecutor",
-      "method" : "runWorker",
-      "file" : "ThreadPoolExecutor.java",
-      "line" : 1191,
-      "exact" : false,
-      "location" : "tomcat-embed-core-9.0.65.jar",
-      "version" : "9.0.65"
-    }, {
-      "class" : "org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker",
-      "method" : "run",
-      "file" : "ThreadPoolExecutor.java",
-      "line" : 659,
-      "exact" : false,
-      "location" : "tomcat-embed-core-9.0.65.jar",
-      "version" : "9.0.65"
-    }, {
-      "class" : "org.apache.tomcat.util.threads.TaskThread$WrappingRunnable",
-      "method" : "run",
-      "file" : "TaskThread.java",
-      "line" : 61,
-      "exact" : false,
-      "location" : "tomcat-embed-core-9.0.65.jar",
-      "version" : "9.0.65"
-    }, {
-      "class" : "java.lang.Thread",
-      "method" : "run",
-      "file" : "Thread.java",
-      "line" : 833,
-      "exact" : false,
-      "location" : "?",
-      "version" : "?"
-    } ]
-  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "com.log4j2.Log4j2",
+  "message" : "Starting Log4j2 using Java 18.0.1.1 on gimbyeong-ung-ui-MacBookAir.local with PID 67387 (/Users/ung/Downloads/Log4j2/build/classes/java/main started by ung in /Users/ung/Downloads/Log4j2)",
   "endOfBatch" : false,
-  "loggerFqcn" : "java.util.logging.Logger",
-  "threadId" : 25,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 1,
   "threadPriority" : 5,
   "service" : "simple"
 }
 {
   "instant" : {
-    "epochSecond" : 1733981412,
-    "nanoOfSecond" : 827474000
+    "epochSecond" : 1733892519,
+    "nanoOfSecond" : 882993000
   },
-  "thread" : "http-nio-8080-exec-10",
-  "level" : "ERROR",
-  "loggerName" : "org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet]",
-  "message" : "Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.ArithmeticException: / by zero] with root cause",
-  "thrown" : {
-    "commonElementCount" : 0,
-    "localizedMessage" : "/ by zero",
-    "message" : "/ by zero",
-    "name" : "java.lang.ArithmeticException",
-    "extendedStackTrace" : [ {
-      "class" : "com.log4j2.controller.Log4j2Controller",
-      "method" : "log4j2",
-      "file" : "Log4j2Controller.java",
-      "line" : 29,
-      "exact" : false,
-      "location" : "main/",
-      "version" : "?"
-    }, {
-      "class" : "jdk.internal.reflect.DirectMethodHandleAccessor",
-      "method" : "invoke",
-      "file" : "DirectMethodHandleAccessor.java",
-      "line" : 104,
-      "exact" : false,
-      "location" : "?",
-      "version" : "?"
-    }, {
-      "class" : "java.lang.reflect.Method",
-      "method" : "invoke",
-      "file" : "Method.java",
-      "line" : 577,
-      "exact" : false,
-      "location" : "?",
-      "version" : "?"
-    }, {
-      "class" : "org.springframework.web.method.support.InvocableHandlerMethod",
-      "method" : "doInvoke",
-      "file" : "InvocableHandlerMethod.java",
-      "line" : 205,
-      "exact" : false,
-      "location" : "spring-web-5.3.23.jar",
-      "version" : "5.3.23"
-    }, {
-      "class" : "org.springframework.web.method.support.InvocableHandlerMethod",
-      "method" : "invokeForRequest",
-      "file" : "InvocableHandlerMethod.java",
-      "line" : 150,
-      "exact" : false,
-      "location" : "spring-web-5.3.23.jar",
-      "version" : "5.3.23"
-    }, {
-      "class" : "org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod",
-      "method" : "invokeAndHandle",
-      "file" : "ServletInvocableHandlerMethod.java",
-      "line" : 117,
-      "exact" : false,
-      "location" : "spring-webmvc-5.3.23.jar",
-      "version" : "5.3.23"
-    }, {
-      "class" : "org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter",
-      "method" : "invokeHandlerMethod",
-      "file" : "RequestMappingHandlerAdapter.java",
-      "line" : 895,
-      "exact" : false,
-      "location" : "spring-webmvc-5.3.23.jar",
-      "version" : "5.3.23"
-    }, {
-      "class" : "org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter",
-      "method" : "handleInternal",
-      "file" : "RequestMappingHandlerAdapter.java",
-      "line" : 808,
-      "exact" : false,
-      "location" : "spring-webmvc-5.3.23.jar",
-      "version" : "5.3.23"
-    }, {
-      "class" : "org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter",
-      "method" : "handle",
-      "file" : "AbstractHandlerMethodAdapter.java",
-      "line" : 87,
-      "exact" : false,
-      "location" : "spring-webmvc-5.3.23.jar",
-      "version" : "5.3.23"
-    }, {
-      "class" : "org.springframework.web.servlet.DispatcherServlet",
-      "method" : "doDispatch",
-      "file" : "DispatcherServlet.java",
-      "line" : 1071,
-      "exact" : false,
-      "location" : "spring-webmvc-5.3.23.jar",
-      "version" : "5.3.23"
-    }, {
-      "class" : "org.springframework.web.servlet.DispatcherServlet",
-      "method" : "doService",
-      "file" : "DispatcherServlet.java",
-      "line" : 964,
-      "exact" : false,
-      "location" : "spring-webmvc-5.3.23.jar",
-      "version" : "5.3.23"
-    }, {
-      "class" : "org.springframework.web.servlet.FrameworkServlet",
-      "method" : "processRequest",
-      "file" : "FrameworkServlet.java",
-      "line" : 1006,
-      "exact" : false,
-      "location" : "spring-webmvc-5.3.23.jar",
-      "version" : "5.3.23"
-    }, {
-      "class" : "org.springframework.web.servlet.FrameworkServlet",
-      "method" : "doGet",
-      "file" : "FrameworkServlet.java",
-      "line" : 898,
-      "exact" : false,
-      "location" : "spring-webmvc-5.3.23.jar",
-      "version" : "5.3.23"
-    }, {
-      "class" : "javax.servlet.http.HttpServlet",
-      "method" : "service",
-      "file" : "HttpServlet.java",
-      "line" : 655,
-      "exact" : false,
-      "location" : "tomcat-embed-core-9.0.65.jar",
-      "version" : "4.0.FR"
-    }, {
-      "class" : "org.springframework.web.servlet.FrameworkServlet",
-      "method" : "service",
-      "file" : "FrameworkServlet.java",
-      "line" : 883,
-      "exact" : false,
-      "location" : "spring-webmvc-5.3.23.jar",
-      "version" : "5.3.23"
-    }, {
-      "class" : "javax.servlet.http.HttpServlet",
-      "method" : "service",
-      "file" : "HttpServlet.java",
-      "line" : 764,
-      "exact" : false,
-      "location" : "tomcat-embed-core-9.0.65.jar",
-      "version" : "4.0.FR"
-    }, {
-      "class" : "org.apache.catalina.core.ApplicationFilterChain",
-      "method" : "internalDoFilter",
-      "file" : "ApplicationFilterChain.java",
-      "line" : 227,
-      "exact" : false,
-      "location" : "tomcat-embed-core-9.0.65.jar",
-      "version" : "9.0.65"
-    }, {
-      "class" : "org.apache.catalina.core.ApplicationFilterChain",
-      "method" : "doFilter",
-      "file" : "ApplicationFilterChain.java",
-      "line" : 162,
-      "exact" : false,
-      "location" : "tomcat-embed-core-9.0.65.jar",
-      "version" : "9.0.65"
-    }, {
-      "class" : "org.apache.tomcat.websocket.server.WsFilter",
-      "method" : "doFilter",
-      "file" : "WsFilter.java",
-      "line" : 53,
-      "exact" : false,
-      "location" : "tomcat-embed-websocket-9.0.65.jar",
-      "version" : "9.0.65"
-    }, {
-      "class" : "org.apache.catalina.core.ApplicationFilterChain",
-      "method" : "internalDoFilter",
-      "file" : "ApplicationFilterChain.java",
-      "line" : 189,
-      "exact" : false,
-      "location" : "tomcat-embed-core-9.0.65.jar",
-      "version" : "9.0.65"
-    }, {
-      "class" : "org.apache.catalina.core.ApplicationFilterChain",
-      "method" : "doFilter",
-      "file" : "ApplicationFilterChain.java",
-      "line" : 162,
-      "exact" : false,
-      "location" : "tomcat-embed-core-9.0.65.jar",
-      "version" : "9.0.65"
-    }, {
-      "class" : "org.springframework.web.filter.RequestContextFilter",
-      "method" : "doFilterInternal",
-      "file" : "RequestContextFilter.java",
-      "line" : 100,
-      "exact" : false,
-      "location" : "spring-web-5.3.23.jar",
-      "version" : "5.3.23"
-    }, {
-      "class" : "org.springframework.web.filter.OncePerRequestFilter",
-      "method" : "doFilter",
-      "file" : "OncePerRequestFilter.java",
-      "line" : 117,
-      "exact" : false,
-      "location" : "spring-web-5.3.23.jar",
-      "version" : "5.3.23"
-    }, {
-      "class" : "org.apache.catalina.core.ApplicationFilterChain",
-      "method" : "internalDoFilter",
-      "file" : "ApplicationFilterChain.java",
-      "line" : 189,
-      "exact" : false,
-      "location" : "tomcat-embed-core-9.0.65.jar",
-      "version" : "9.0.65"
-    }, {
-      "class" : "org.apache.catalina.core.ApplicationFilterChain",
-      "method" : "doFilter",
-      "file" : "ApplicationFilterChain.java",
-      "line" : 162,
-      "exact" : false,
-      "location" : "tomcat-embed-core-9.0.65.jar",
-      "version" : "9.0.65"
-    }, {
-      "class" : "org.springframework.web.filter.FormContentFilter",
-      "method" : "doFilterInternal",
-      "file" : "FormContentFilter.java",
-      "line" : 93,
-      "exact" : false,
-      "location" : "spring-web-5.3.23.jar",
-      "version" : "5.3.23"
-    }, {
-      "class" : "org.springframework.web.filter.OncePerRequestFilter",
-      "method" : "doFilter",
-      "file" : "OncePerRequestFilter.java",
-      "line" : 117,
-      "exact" : false,
-      "location" : "spring-web-5.3.23.jar",
-      "version" : "5.3.23"
-    }, {
-      "class" : "org.apache.catalina.core.ApplicationFilterChain",
-      "method" : "internalDoFilter",
-      "file" : "ApplicationFilterChain.java",
-      "line" : 189,
-      "exact" : false,
-      "location" : "tomcat-embed-core-9.0.65.jar",
-      "version" : "9.0.65"
-    }, {
-      "class" : "org.apache.catalina.core.ApplicationFilterChain",
-      "method" : "doFilter",
-      "file" : "ApplicationFilterChain.java",
-      "line" : 162,
-      "exact" : false,
-      "location" : "tomcat-embed-core-9.0.65.jar",
-      "version" : "9.0.65"
-    }, {
-      "class" : "org.springframework.web.filter.CharacterEncodingFilter",
-      "method" : "doFilterInternal",
-      "file" : "CharacterEncodingFilter.java",
-      "line" : 201,
-      "exact" : false,
-      "location" : "spring-web-5.3.23.jar",
-      "version" : "5.3.23"
-    }, {
-      "class" : "org.springframework.web.filter.OncePerRequestFilter",
-      "method" : "doFilter",
-      "file" : "OncePerRequestFilter.java",
-      "line" : 117,
-      "exact" : false,
-      "location" : "spring-web-5.3.23.jar",
-      "version" : "5.3.23"
-    }, {
-      "class" : "org.apache.catalina.core.ApplicationFilterChain",
-      "method" : "internalDoFilter",
-      "file" : "ApplicationFilterChain.java",
-      "line" : 189,
-      "exact" : false,
-      "location" : "tomcat-embed-core-9.0.65.jar",
-      "version" : "9.0.65"
-    }, {
-      "class" : "org.apache.catalina.core.ApplicationFilterChain",
-      "method" : "doFilter",
-      "file" : "ApplicationFilterChain.java",
-      "line" : 162,
-      "exact" : false,
-      "location" : "tomcat-embed-core-9.0.65.jar",
-      "version" : "9.0.65"
-    }, {
-      "class" : "org.apache.catalina.core.StandardWrapperValve",
-      "method" : "invoke",
-      "file" : "StandardWrapperValve.java",
-      "line" : 197,
-      "exact" : false,
-      "location" : "tomcat-embed-core-9.0.65.jar",
-      "version" : "9.0.65"
-    }, {
-      "class" : "org.apache.catalina.core.StandardContextValve",
-      "method" : "invoke",
-      "file" : "StandardContextValve.java",
-      "line" : 97,
-      "exact" : false,
-      "location" : "tomcat-embed-core-9.0.65.jar",
-      "version" : "9.0.65"
-    }, {
-      "class" : "org.apache.catalina.authenticator.AuthenticatorBase",
-      "method" : "invoke",
-      "file" : "AuthenticatorBase.java",
-      "line" : 541,
-      "exact" : false,
-      "location" : "tomcat-embed-core-9.0.65.jar",
-      "version" : "9.0.65"
-    }, {
-      "class" : "org.apache.catalina.core.StandardHostValve",
-      "method" : "invoke",
-      "file" : "StandardHostValve.java",
-      "line" : 135,
-      "exact" : false,
-      "location" : "tomcat-embed-core-9.0.65.jar",
-      "version" : "9.0.65"
-    }, {
-      "class" : "org.apache.catalina.valves.ErrorReportValve",
-      "method" : "invoke",
-      "file" : "ErrorReportValve.java",
-      "line" : 92,
-      "exact" : false,
-      "location" : "tomcat-embed-core-9.0.65.jar",
-      "version" : "9.0.65"
-    }, {
-      "class" : "org.apache.catalina.core.StandardEngineValve",
-      "method" : "invoke",
-      "file" : "StandardEngineValve.java",
-      "line" : 78,
-      "exact" : false,
-      "location" : "tomcat-embed-core-9.0.65.jar",
-      "version" : "9.0.65"
-    }, {
-      "class" : "org.apache.catalina.connector.CoyoteAdapter",
-      "method" : "service",
-      "file" : "CoyoteAdapter.java",
-      "line" : 360,
-      "exact" : false,
-      "location" : "tomcat-embed-core-9.0.65.jar",
-      "version" : "9.0.65"
-    }, {
-      "class" : "org.apache.coyote.http11.Http11Processor",
-      "method" : "service",
-      "file" : "Http11Processor.java",
-      "line" : 399,
-      "exact" : false,
-      "location" : "tomcat-embed-core-9.0.65.jar",
-      "version" : "9.0.65"
-    }, {
-      "class" : "org.apache.coyote.AbstractProcessorLight",
-      "method" : "process",
-      "file" : "AbstractProcessorLight.java",
-      "line" : 65,
-      "exact" : false,
-      "location" : "tomcat-embed-core-9.0.65.jar",
-      "version" : "9.0.65"
-    }, {
-      "class" : "org.apache.coyote.AbstractProtocol$ConnectionHandler",
-      "method" : "process",
-      "file" : "AbstractProtocol.java",
-      "line" : 890,
-      "exact" : false,
-      "location" : "tomcat-embed-core-9.0.65.jar",
-      "version" : "9.0.65"
-    }, {
-      "class" : "org.apache.tomcat.util.net.NioEndpoint$SocketProcessor",
-      "method" : "doRun",
-      "file" : "NioEndpoint.java",
-      "line" : 1789,
-      "exact" : false,
-      "location" : "tomcat-embed-core-9.0.65.jar",
-      "version" : "9.0.65"
-    }, {
-      "class" : "org.apache.tomcat.util.net.SocketProcessorBase",
-      "method" : "run",
-      "file" : "SocketProcessorBase.java",
-      "line" : 49,
-      "exact" : false,
-      "location" : "tomcat-embed-core-9.0.65.jar",
-      "version" : "9.0.65"
-    }, {
-      "class" : "org.apache.tomcat.util.threads.ThreadPoolExecutor",
-      "method" : "runWorker",
-      "file" : "ThreadPoolExecutor.java",
-      "line" : 1191,
-      "exact" : false,
-      "location" : "tomcat-embed-core-9.0.65.jar",
-      "version" : "9.0.65"
-    }, {
-      "class" : "org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker",
-      "method" : "run",
-      "file" : "ThreadPoolExecutor.java",
-      "line" : 659,
-      "exact" : false,
-      "location" : "tomcat-embed-core-9.0.65.jar",
-      "version" : "9.0.65"
-    }, {
-      "class" : "org.apache.tomcat.util.threads.TaskThread$WrappingRunnable",
-      "method" : "run",
-      "file" : "TaskThread.java",
-      "line" : 61,
-      "exact" : false,
-      "location" : "tomcat-embed-core-9.0.65.jar",
-      "version" : "9.0.65"
-    }, {
-      "class" : "java.lang.Thread",
-      "method" : "run",
-      "file" : "Thread.java",
-      "line" : 833,
-      "exact" : false,
-      "location" : "?",
-      "version" : "?"
-    } ]
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "com.log4j2.Log4j2",
+  "message" : "No active profile set, falling back to 1 default profile: \"default\"",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "service" : "simple"
+}
+{
+  "instant" : {
+    "epochSecond" : 1733892520,
+    "nanoOfSecond" : 217451000
   },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.embedded.tomcat.TomcatWebServer",
+  "message" : "Tomcat initialized with port(s): 8080 (http)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "service" : "simple"
+}
+{
+  "instant" : {
+    "epochSecond" : 1733892520,
+    "nanoOfSecond" : 224512000
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "org.apache.coyote.http11.Http11NioProtocol",
+  "message" : "Initializing ProtocolHandler [\"http-nio-8080\"]",
   "endOfBatch" : false,
   "loggerFqcn" : "java.util.logging.Logger",
-  "threadId" : 30,
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "service" : "simple"
+}
+{
+  "instant" : {
+    "epochSecond" : 1733892520,
+    "nanoOfSecond" : 225063000
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardService",
+  "message" : "Starting service [Tomcat]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "service" : "simple"
+}
+{
+  "instant" : {
+    "epochSecond" : 1733892520,
+    "nanoOfSecond" : 225424000
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardEngine",
+  "message" : "Starting Servlet engine: [Apache Tomcat/9.0.65]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "service" : "simple"
+}
+{
+  "instant" : {
+    "epochSecond" : 1733892520,
+    "nanoOfSecond" : 258199000
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]",
+  "message" : "Initializing Spring embedded WebApplicationContext",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "service" : "simple"
+}
+{
+  "instant" : {
+    "epochSecond" : 1733892520,
+    "nanoOfSecond" : 258571000
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext",
+  "message" : "Root WebApplicationContext: initialization completed in 360 ms",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "service" : "simple"
+}
+{
+  "instant" : {
+    "epochSecond" : 1733892520,
+    "nanoOfSecond" : 371159000
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "org.apache.coyote.http11.Http11NioProtocol",
+  "message" : "Starting ProtocolHandler [\"http-nio-8080\"]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "service" : "simple"
+}
+{
+  "instant" : {
+    "epochSecond" : 1733892520,
+    "nanoOfSecond" : 386985000
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.embedded.tomcat.TomcatWebServer",
+  "message" : "Tomcat started on port(s): 8080 (http) with context path ''",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "service" : "simple"
+}
+{
+  "instant" : {
+    "epochSecond" : 1733892520,
+    "nanoOfSecond" : 391983000
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "com.log4j2.Log4j2",
+  "message" : "Started Log4j2 in 0.737 seconds (JVM running for 0.98)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "service" : "simple"
+}
+{
+  "instant" : {
+    "epochSecond" : 1733892524,
+    "nanoOfSecond" : 177087000
+  },
+  "thread" : "http-nio-8080-exec-1",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]",
+  "message" : "Initializing Spring DispatcherServlet 'dispatcherServlet'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "simple"
+}
+{
+  "instant" : {
+    "epochSecond" : 1733892524,
+    "nanoOfSecond" : 177831000
+  },
+  "thread" : "http-nio-8080-exec-1",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.web.servlet.DispatcherServlet",
+  "message" : "Initializing Servlet 'dispatcherServlet'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "simple"
+}
+{
+  "instant" : {
+    "epochSecond" : 1733892524,
+    "nanoOfSecond" : 178899000
+  },
+  "thread" : "http-nio-8080-exec-1",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.web.servlet.DispatcherServlet",
+  "message" : "Completed initialization in 0 ms",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 21,
   "threadPriority" : 5,
   "service" : "simple"
 }

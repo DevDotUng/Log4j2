@@ -37,7 +37,6 @@ public class Log4j2Controller {
     @GetMapping("/api/logs")
     public ResponseEntity<?> getLogs() {
         try {
-
             List<String> allLines = Files.readAllLines(Paths.get(LOG_FILE_PATH));
             StringBuilder sb = new StringBuilder();
             for (String line: allLines) {
@@ -58,5 +57,4 @@ public class Log4j2Controller {
             throw new RuntimeException(e);
         }
     }
-
 }
